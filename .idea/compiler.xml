@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="sparql-sesame" />
+        <module name="ecs" />
+        <module name="common" />
+        <module name="cep-esper" />
+        <module name="sparql-jena" />
+        <module name="csparql-ui" />
+        <module name="core" />
+        <module name="sparql-api" />
+        <module name="stream" />
+        <module name="cep-api" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cep-api" target="1.7" />
+      <module name="cep-esper" target="1.7" />
+      <module name="cichlid" target="1.7" />
+      <module name="cichlid (1) (org.example)" target="1.5" />
+      <module name="common" target="1.7" />
+      <module name="core" target="8" />
+      <module name="CSPARQL-engine" target="1.5" />
+      <module name="csparql-ui" target="1.7" />
+      <module name="ecs" target="8" />
+      <module name="sparql-api" target="1.7" />
+      <module name="sparql-jena" target="1.7" />
+      <module name="sparql-sesame" target="1.7" />
+      <module name="stream" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

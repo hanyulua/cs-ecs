@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CSPARQL-engine.iml" filepath="$PROJECT_DIR$/CSPARQL-engine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cep-api/cep-api.iml" filepath="$PROJECT_DIR$/cep-api/cep-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cep-esper/cep-esper.iml" filepath="$PROJECT_DIR$/cep-esper/cep-esper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/core.iml" filepath="$PROJECT_DIR$/core/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/csparql-ui/csparql-ui.iml" filepath="$PROJECT_DIR$/csparql-ui/csparql-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecs/ecs.iml" filepath="$PROJECT_DIR$/ecs/ecs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparql-api/sparql-api.iml" filepath="$PROJECT_DIR$/sparql-api/sparql-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparql-jena/sparql-jena.iml" filepath="$PROJECT_DIR$/sparql-jena/sparql-jena.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparql-sesame/sparql-sesame.iml" filepath="$PROJECT_DIR$/sparql-sesame/sparql-sesame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stream/stream.iml" filepath="$PROJECT_DIR$/stream/stream.iml" />
+    </modules>
+  </component>
+</project>
